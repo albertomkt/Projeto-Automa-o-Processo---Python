@@ -1,4 +1,10 @@
-# Automação de Indicadores
+# Projeto 1 - Automação de Processo - Aplicação de Mercado de Trabalho
+
+## Curso de Python da Hashtag Treinamentos
+
+## Finalizado dia 26/12/2022
+
+## Automação de Indicadores
 
 ### Objetivo: Treinar e criar um Projeto Completo que envolva a automatização de um processo feito no computador
 
@@ -41,8 +47,3 @@ Ex: O e-mail a ser enviado para o Gerente da Loja A deve ser como exemplo
 Obs: Cada indicador deve ser calculado no dia e no ano. O indicador do dia deve ser o do último dia disponível na planilha de Vendas (a data mais recente)
 
 Obs2: Dica para o caracter do sinal verde e vermelho: pegue o caracter desse site (https://fsymbols.com/keyboard/windows/alt-codes/list/) e formate com html
-
-
-```python
-
-```
