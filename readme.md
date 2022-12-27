@@ -1,7 +1,6 @@
 # Projeto 1 - Automação de Processo - Aplicação de Mercado de Trabalho
 
 ## Curso de Python da Hashtag Treinamentos
-
 ## Finalizado dia 26/12/2022
 
 ## Automação de Indicadores
